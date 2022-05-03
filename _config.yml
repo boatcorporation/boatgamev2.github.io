@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: Boat Corporation
+description: Documentation for Boat Corporation
+site_title: 'Boat Corporation'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# absolute or relative
+profile_picture: assets/images/boat.png
